@@ -1,4 +1,4 @@
-mausam
+Mausam
 ======
 
-Weather data aggregation
+Weather data aggregation and analysis tool
